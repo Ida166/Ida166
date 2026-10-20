@@ -53,8 +53,6 @@ I enjoy understanding how systems work, solving problems, and building software 
 
 
 
-**Technologies:** HTML · CSS · JavaScript · Node.js · Express
-
 
 <div align="center">
 
