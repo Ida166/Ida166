@@ -7,8 +7,6 @@
 
 *Building software. Exploring AI. Learning by doing.*
 
-[![Email](https://img.shields.io/badge/Email-Contact-8B9CF6?style=flat-square&logo=gmail&logoColor=white)](mailto:idax035c@gmail.com)
-
 </div>
 
 ---
