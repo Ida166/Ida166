@@ -17,11 +17,6 @@ I'm a Software Engineering student at Aalborg University Copenhagen with an inte
 
 I enjoy understanding how systems work, solving problems, and building software that is both functional and user-friendly. Through university projects and practical experience, I'm continuously developing my technical skills and learning new technologies.
 
-- BSc in Software Engineering at AAU Copenhagen
-- Interested in web development and backend systems
-- Exploring AI, LLMs, embeddings, and clustering
-- Interested in software testing and quality assurance
-- Always learning and improving my development skills
 
 ---
 
